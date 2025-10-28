@@ -8,16 +8,16 @@ Este repositorio contiene los 5 proyectos finales realizados de manera autónoma
 | Proyecto | Conceptos Aprendidos |
 |----------|---------------------|
 | **Arithmetic Formatter** | Formateo de salida, validación de inputs, manipulación de strings, lógica de presentación |
-| **Time Calculator** | Manipulación de fechas y horas, cálculos temporales, formato de datos, casos edge |
+| **Time Calculator** | Manipulación de fechas y horas, cálculos temporales, formato de objetos, casos edge |
 | **Budget App** | Programación orientada a objetos, métodos de clase, gestión de estado, encapsulación |
 | **Polygon Area Calculator** | Herencia, propiedades, validación geométrica, principios SOLID |
-| **Probability Calculator** | Simulación estadística, análisis de datos, experimentos computacionales, aleatoriedad |
+| **Probability Calculator** | Probabilidad, experimentos computacionales, aleatoriedad |
 
 ## 🚀 Habilidades Desarrolladas
 
 ### 💻 **Habilidades Técnicas**
 - **Sintaxis Python**: Dominio completo de la sintaxis y estructuras del lenguaje
-- **Estructuras de datos**: Uso efectivo de listas, diccionarios, strings y objetos personalizados
+- **Estructuras de objetos**: Uso efectivo de listas, diccionarios, strings y objetos personalizados
 - **Manejo de excepciones**: Implementación robusta de manejo de errores y casos límite
 - **Modularización**: Organización de código en funciones y clases cohesivas
 
