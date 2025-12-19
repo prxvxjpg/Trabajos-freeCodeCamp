@@ -1,6 +1,7 @@
 # Scientific Computing with Python - FreeCodeCamp Projects
 Este repositorio contiene los 5 proyectos finales realizados de manera autónoma para recibir el certificado del curso **Scientific Computing with Python** (*+300 hours*) de FreeCodeCamp, demostrando mi comprensión fundamental de la programación Python aplicada a problemas computacionales y científicos.
 
+> *Nota importante: Los proyectos realizados no se encuentran documentados pues en aquel momento fue mi primer acercamiento a la programación y no conocía la importancia de documentar cada código*
 
 
 ## 📁 Proyectos del Curso
